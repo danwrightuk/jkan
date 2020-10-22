@@ -20,6 +20,8 @@ navigation:
     url: /datasets/
   - title: Organizations
     url: /organizations/
+  - title: SODP
+    url: https://sodp.org.uk/
 
 # Collections
 collections:
